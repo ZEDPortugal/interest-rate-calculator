@@ -1,0 +1,8 @@
+user@Zed interest-rate-calculator % npx webpack
+asset index.html 861 bytes [emitted]
+asset main.js 741 bytes [emitted] [compared for emit] [minimized] (name: main)
+asset favicon.ico 2 bytes [emitted]
+./src/index.js 752 bytes [built] [code generated]
+./src/script.js 361 bytes [built] [code generated]
+webpack 5.109.0 compiled successfully in 296 ms
+user@Zed interest-rate-calculator % 

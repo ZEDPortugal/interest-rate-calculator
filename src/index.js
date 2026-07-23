@@ -1,4 +1,4 @@
-const calculate = require('../script.js');
+const calculate = require('./script.js');
 
 document.addEventListener('DOMContentLoaded', () => {
     const calculateBtn = document.getElementById('calculate');
